@@ -24,13 +24,9 @@ Here's another view of [the schedule](./Resources/Career Week Schedule.pdf) for 
 ### Core
 
 **Prep for Monday**
-
-* Review the [Graduate Agreement](./graduate_agreement.md)
-* Complete Graduate Information Form, coming to your inbox from Lia
 * [This activity](./Resources/WCIYP) will be the first workshop Monday morning. Be sure to complete the [Printable Petal Exercise](./Resources/WCIYP/Blank Flower Diagram.pdf) from Chapter 7
 * Complete your resume using these [Tech Resume Guidelines](./Resume.md)
 * Complete your LinkedIn using these [LinkedIn Guidelines](./LinkedIn.md)
-* Complete your DevConnect profile using these [DevConnect Guidelines](./DevConnect.md)
 * Build your [company tracker](./Organized_Searching.md) with trello.
 * Answer the questions asked for the ["Your Story"](./Your_Story.md) exercise
 
